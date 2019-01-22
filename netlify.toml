@@ -3,5 +3,5 @@
   publish = "build"
   
 [template.environment]
-  GRAPHCOOL_ENDPOINT = "enter url to GraphQL endpoint here"
-  GITHUB_TOKEN = "enter your GitHub access token"
+  GRAPHCOOL_ENDPOINT = "https://api.graph.cool/simple/v1/cjr7z998d9inc0130oy2uxsif"
+  GITHUB_TOKEN = "a2f51fb5d47d7a04e5e0b4b83c229910007aea6b"
